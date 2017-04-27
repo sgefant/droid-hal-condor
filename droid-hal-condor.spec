@@ -1,4 +1,4 @@
-e and other macros are documented in dhd/droid-hal-device.inc
+# These and other macros are documented in dhd/droid-hal-device.inc
 %define device condor
 %define vendor motorola
 %define vendor_pretty Motorola
